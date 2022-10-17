@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Mover
+comment1.params=
+comment1.target=boolean\ atWorldEdge()
+comment2.params=direction
+comment2.target=boolean\ canMove(java.lang.String)
+comment3.params=object
+comment3.target=boolean\ isOn(java.lang.Class)
+comment4.params=object
+comment4.target=void\ eat(java.lang.Class)
+numComments=5

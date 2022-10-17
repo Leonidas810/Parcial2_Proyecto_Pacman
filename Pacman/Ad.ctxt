@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ad
+comment1.params=text
+comment1.target=Ad(java.lang.String)
+comment2.params=
+comment2.target=Ad()
+comment3.params=amount
+comment3.target=void\ Ad_IncreaseScore(int)
+numComments=4
